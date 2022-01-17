@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wave-me/static/css/main.827ee078.css",
-    "main.js": "/wave-me/static/js/main.97a8d1f3.js",
-    "static/js/787.df3d83f4.chunk.js": "/wave-me/static/js/787.df3d83f4.chunk.js",
-    "index.html": "/wave-me/index.html",
-    "main.827ee078.css.map": "/wave-me/static/css/main.827ee078.css.map",
-    "main.97a8d1f3.js.map": "/wave-me/static/js/main.97a8d1f3.js.map",
-    "787.df3d83f4.chunk.js.map": "/wave-me/static/js/787.df3d83f4.chunk.js.map"
+    "main.css": "/hire-me/static/css/main.827ee078.css",
+    "main.js": "/hire-me/static/js/main.f95b9e5f.js",
+    "static/js/787.3b56a427.chunk.js": "/hire-me/static/js/787.3b56a427.chunk.js",
+    "index.html": "/hire-me/index.html",
+    "main.827ee078.css.map": "/hire-me/static/css/main.827ee078.css.map",
+    "main.f95b9e5f.js.map": "/hire-me/static/js/main.f95b9e5f.js.map",
+    "787.3b56a427.chunk.js.map": "/hire-me/static/js/787.3b56a427.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.827ee078.css",
-    "static/js/main.97a8d1f3.js"
+    "static/js/main.f95b9e5f.js"
   ]
 }
